@@ -1,1 +1,1 @@
-# android-test-app
+# mobile-test-app

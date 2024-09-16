@@ -1,0 +1,7 @@
+{
+  "name": "mobile-test-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
